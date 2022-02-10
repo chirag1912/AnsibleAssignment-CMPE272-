@@ -1,2 +1,2 @@
-# Ansible Assignment CMPE272
-Assignment 1 of CMPE 272 Ansible Configuration
+# Ansible CMPE272
+CMPE 272 Ansible Git Repo
